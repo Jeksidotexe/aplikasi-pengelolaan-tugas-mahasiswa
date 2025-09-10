@@ -5,7 +5,7 @@ aplikasi berbasis web ini hadir sebagai solusi manajemen tugas mahasiswa dengan 
 ---
 
 ## ✨ Features
-- ✅ Fitur 1 (Login)
+- ✅ Fitur 1 (Login dan Register)
 - ✅ Fitur 2 (CRUD Data Kategori, CRUD Data Tugas, CRUD Data Prioritas, CRUD Data Komentar, CRUD Data Pengingat)
 - ✅ Fitur 3 (Export PDF)
 - ✅ Fitur 4 (Dashboard)
@@ -15,19 +15,15 @@ aplikasi berbasis web ini hadir sebagai solusi manajemen tugas mahasiswa dengan 
 ## 🖼️ Screenshots  
 
 <p align="center">
-  <img src="https://github.com/Jeksidotexe/Sistem-Informasi-Geografis-Pemetaan-SMA-Sederajat/blob/master/screenshots/Landing%20Page.png?raw=true" alt="Landing Page" width="700" />
+  <img src="https://github.com/Jeksidotexe/aplikasi-pengelolaan-tugas-mahasiswa/blob/b180640bb2908adaf2318416affdc31faa0cd6c1/screenshots/dashboard.png" alt="Landing Page" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jeksidotexe/Sistem-Informasi-Geografis-Pemetaan-SMA-Sederajat/blob/master/screenshots/Landing%20Page%20Map.png?raw=true" alt="Landing Page - Maps" width="700" />
+  <img src="https://github.com/Jeksidotexe/aplikasi-pengelolaan-tugas-mahasiswa/blob/b180640bb2908adaf2318416affdc31faa0cd6c1/screenshots/tugas_view.png" alt="Dashboard Admin" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jeksidotexe/Sistem-Informasi-Geografis-Pemetaan-SMA-Sederajat/blob/master/screenshots/Dashboard-Admin.png?raw=true" alt="Dashboard Admin" width="700" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Jeksidotexe/Sistem-Informasi-Geografis-Pemetaan-SMA-Sederajat/blob/master/screenshots/Dashboard-Operator.png?raw=true" alt="Dashboard Operator" width="700" />
+  <img src="https://github.com/Jeksidotexe/aplikasi-pengelolaan-tugas-mahasiswa/blob/b180640bb2908adaf2318416affdc31faa0cd6c1/screenshots/profil_view.png" alt="Landing Page - Maps" width="700" />
 </p>
 
 ---
