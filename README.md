@@ -1,14 +1,14 @@
 # 📌 Project Title
 
-Aplikasi Sistem Informasi Geografis (SIG) berbasis website untuk memetakan persebaran Sekolah Menengah Atas/Sederajat di Kabupaten Sambas. Proyek ini bertujuan menyediakan data lokasi sekolah secara interaktif, akurat, dan mudah diakses, guna mendukung analisis pemerataan pendidikan serta mempermudah masyarakat dalam memperoleh informasi sekolah.  
+aplikasi berbasis web ini hadir sebagai solusi manajemen tugas mahasiswa dengan fitur pengingat deadline, sistem prioritas, serta status penyelesaian. Dibangun menggunakan konsep Pemrograman Berorientasi Objek (PBO), aplikasi ini dirancang modular, mudah dikembangkan, dan membantu meningkatkan produktivitas serta efektivitas belajar mahasiswa.  
 
 ---
 
 ## ✨ Features
 - ✅ Fitur 1 (Login)
-- ✅ Fitur 2 (CRUD Data Kecamatan, CRUD Data Desa, CRUD Data Jenjang Pendidikan, CRUD Data Sekolah, CRUD Data Kepala Sekolah, CRUD Data Operator)
+- ✅ Fitur 2 (CRUD Data Kategori, CRUD Data Tugas, CRUD Data Prioritas, CRUD Data Komentar, CRUD Data Pengingat)
 - ✅ Fitur 3 (Export PDF)
-- ✅ Fitur 4 (Dashboard Statistik)
+- ✅ Fitur 4 (Dashboard)
 
 ---
 
@@ -34,7 +34,7 @@ Aplikasi Sistem Informasi Geografis (SIG) berbasis website untuk memetakan perse
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** PHP, Codeigniter  
+- **Backend:** PHP  
 - **Database:** MySQL 
 
 ---
@@ -42,4 +42,4 @@ Aplikasi Sistem Informasi Geografis (SIG) berbasis website untuk memetakan perse
 ## ⚡ Installation
 1. Clone repository  
    ```bash
-   git clone https://github.com/Jeksidotexe/Sistem-Informasi-Geografis-Pemetaan-SMA-Sederajat.git
+   https://github.com/Jeksidotexe/aplikasi-pengelolaan-tugas-mahasiswa.git
